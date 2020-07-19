@@ -27,7 +27,41 @@
 <tr><td>Using a technique based on Whole Brain research combined with what Einstein called “spooky action at a distance”, I shift your limiting beliefs to empowering beliefs.</tr></td>
 
 <tr><td>Work with your coach to identify an empowering belief, and an action that symbolizes how your life will be different. Submit a payment of $65. I will do a balance on that belief within one week and send you an email with results. When you receive the email, you will follow through with your action at your earliest convenience. The sooner the better.</tr></td>
-
+  </table>
+<table>
+  <td><tr>
+  <div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'pill',
+          color: 'white',
+          layout: 'vertical',
+          label: 'pay',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: '65.00'
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
+  </td>
+<td> second column </td>
+</tr>
+</table>
+  <table>
 <tr><td>There is a list of coaches I recommend below with whom you can work. I do a very limited number of coaching sessions at $500 per hour. If you prefer to work with me directly, submit a payment of $500 and I will email you to schedule a session.</tr></td>
 <tr><td>
     <ul>
