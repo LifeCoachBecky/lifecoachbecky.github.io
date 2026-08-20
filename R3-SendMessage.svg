@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="R3-SendMessage-working.svg"
+   sodipodi:docname="R3-SendMessage.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.2"
-     inkscape:cx="1470"
-     inkscape:cy="1462.5"
+     inkscape:cx="1250"
+     inkscape:cy="1422.5"
      inkscape:window-width="1446"
      inkscape:window-height="822"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <rect
@@ -47,33 +48,33 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.40729356,0,0,0.42494989,-116.27093,-142.6884)"
+       transform="matrix(0.40729356,0,0,0.42494989,-137.81801,-142.6884)"
        id="text1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.317px;font-family:Avenir;-inkscape-font-specification:Avenir;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:1;fill:#000000;fill-opacity:0.634615;stroke:#000000;stroke-width:1.00157;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.317px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-opacity:1"><tspan
          x="430"
-         y="542.13736"
-         id="tspan5"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
-           id="tspan2">I’m Becky Dowling, ICF Professional Certified Coach and </tspan></tspan><tspan
+         y="543.74288"
+         id="tspan10"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011444092"
+           id="tspan1">I’m Becky Dowling, ICF Professional Certified Coach and </tspan></tspan><tspan
          x="430"
-         y="637.5336"
-         id="tspan7"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152 0 0 0 0 -0.00010299683"
-           id="tspan6">National Board Certified Health &amp; Wellness Coach with </tspan></tspan><tspan
+         y="639.13912"
+         id="tspan11">National Board Certified Health &amp; Wellness Coach with over </tspan><tspan
          x="430"
-         y="732.92984"
-         id="tspan8">over 20 years of experience, and a Clinical Emotional </tspan><tspan
+         y="734.53536"
+         id="tspan13"><tspan
+   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011444092"
+   id="tspan12">20 years of experience, and a Clinical Emotional </tspan>Freedom </tspan><tspan
          x="430"
-         y="828.32608"
-         id="tspan9">Freedom Techniques Certified Practitioner.
+         y="829.9316"
+         id="tspan14">Techniques Certified Practitioner.
 </tspan></text>
     <rect
        style="opacity:1;fill:#9fd7f5;fill-opacity:0.1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
        id="rect2"
        width="855.92706"
        height="185.20833"
-       x="23.283329"
-       y="44.979156"
+       x="21.695812"
+       y="50.270824"
        rx="25"
        ry="25" />
     <rect
@@ -81,31 +82,31 @@
        id="rect3"
        width="343.95834"
        height="56.885414"
-       x="279.2677"
+       x="277.67993"
        y="317.76489"
        rx="30"
        ry="30" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Avenir;-inkscape-font-specification:Avenir;writing-mode:lr-tb;direction:ltr;opacity:0.993644;fill:#9fd7f5;fill-opacity:0.997743;stroke:none;stroke-width:0.264999;stroke-opacity:1"
-       x="317.67493"
+       x="316.08716"
        y="354.01297"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:24.6944px;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#000000;fill-opacity:0.963883;stroke:#6b7676;stroke-width:0.265;stroke-opacity:0.681716"
-         x="317.67493"
+         x="316.08716"
          y="354.01297">SEND ME A MESSAGE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Avenir;-inkscape-font-specification:Avenir;writing-mode:lr-tb;direction:ltr;opacity:0.993644;fill:#000000;fill-opacity:0.963883;stroke:#6b7676;stroke-width:0.264999;stroke-opacity:0.681716"
-       x="306.71509"
+       x="305.12732"
        y="441.85461"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.265"
-         x="306.71509"
+         x="305.12732"
          y="441.85461">Or call me at (517) 325-0703</tspan></text>
   </g>
 </svg>
